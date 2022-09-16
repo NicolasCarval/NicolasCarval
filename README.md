@@ -1,5 +1,5 @@
 ### Hi there 👋 
-*I am an Engineering student in 4th year*
+*I am an Engineering student in M2 of Data & AI in ESILV*
 
 <!--
 **NicolasCarval/NicolasCarval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,21 +19,23 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 
-A Project in partnership with **Microsoft FRANCE** and **UCANSS**.
-The goal is simple : 
-creating an "Add-In" in Word that uses **Artificial Intelligence (NLP)** in order to analyse the text and extract keywords.
-Then it must display related images available for copy/paste directly in the Word context.
+  A Project in partnership with **APHP** (Hospitals of Paris) .
+  The goal is simple : 
+    1) To develop an algorithm for automatic segmentation of the myocardial infarction zone 
+       from cardiac MRI images in order to quantify the size of the infarction 
+       and to locate its territory in the heart.
+    2) From a supervised machine learning algorithm integrating the different characteristics of the detected myocardial infarction,
+       to predict the risk of mortality of the patient after five years of follow-up.
   
 - 🌱 I’m currently learning ...
 
 - - I am in an Engineering school ESILV, and I am following the **"Data & AI"** specialization.
 - - I am also following **Marketing** courses as I am studying for a double diploma at EMLV a school of Management.
-- - I am completing the **"AWS Solution Architect"** certification.
 
-- 👯 I’m looking for an internship...
+- 👯 I’m looking for an End of Study Internship...
 
 In the area of Data Science, Data analysis, in fact of data in general
-it should last for 4 to 5 months and begin by 4 April 2022.
+it should last for 6 months and begin by February 2023.
 
 - 📫 How to reach me: ...
 
