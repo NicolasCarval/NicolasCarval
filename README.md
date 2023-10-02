@@ -1,5 +1,5 @@
 ### Hi there 👋 
-*I am an Engineering student in M2 of Data & AI in ESILV*
+*I just finished my engineering studies in Data & AI at ESILV*
 
 <!--
 **NicolasCarval/NicolasCarval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 #### About me
 
-- 🔭 I’m currently working on ...
+- 🔭 I recently worked on ...
 
   A Project in partnership with **APHP** (Hospitals of Paris) .
   The goal is simple : 
@@ -32,10 +32,9 @@ Here are some ideas to get you started:
 - - I am in an Engineering school ESILV, and I am following the **"Data & AI"** specialization.
 - - I am also following **Marketing** courses as I am studying for a double diploma at EMLV a school of Management.
 
-- 👯 I’m looking for an End of Study Internship...
+- 👯 I’m looking for a first job...
 
-In the area of Data Science, Data analysis, in fact of data in general
-it should last for 6 months and begin by February 2023.
+In the area of Data Science, Computer Vision,  Data analysis.
 
 - 📫 How to reach me: ...
 
