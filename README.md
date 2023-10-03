@@ -19,18 +19,20 @@ Here are some ideas to get you started:
 
 - 🔭 I recently worked on ...
 
-  A Project in partnership with **APHP** (Hospitals of Paris) .
-  The goal is simple : 
-    1) To develop an algorithm for automatic segmentation of the myocardial infarction zone 
-       from cardiac MRI images in order to quantify the size of the infarction 
-       and to locate its territory in the heart.
-    2) From a supervised machine learning algorithm integrating the different characteristics of the detected myocardial infarction,
-       to predict the risk of mortality of the patient after five years of follow-up.
+  The development of an application made for medical image annotation during my internship at GE HealthCare.
+  The goal was to automate the annotation of scanners for specific signs of a pathology (CTEPH).
   
-- 🌱 I’m currently learning ...
+  My missions were : 
+    1) To develop an algorithm of Deep Learning for automatic segmentation of the heart ventricles.
+    2) To develop an algorithm to approximate the ventricles diameters.
+    3) Then to Integrate those algorithms in an application to review the results of algorithms.
 
-- - I am in an Engineering school ESILV, and I am following the **"Data & AI"** specialization.
-- - I am also following **Marketing** courses as I am studying for a double diploma at EMLV a school of Management.
+  During this internship I developed skills in :
+    - Computer Vision (Python, Pytorch).
+    - Backend & Frontend programing (C++, TypeScript).
+    - SCRUM methodology.
+    - Knowledge in the medical field.
+  
 
 - 👯 I’m looking for a first job...
 
