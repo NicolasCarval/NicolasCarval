@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#👋 Welcome to my GitHub profile!
+## 👋 Welcome to my GitHub profile!
 
 I am a Machine Learning Engineer with expertise in integrating AI solutions within cloud environments. Passionate about automating data workflows and deploying machine learning models, I specialize in developing LLM-based solutions and computer vision applications.
 
